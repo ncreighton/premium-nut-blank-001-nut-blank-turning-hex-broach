@@ -1,0 +1,2 @@
+# premium-nut-blank-001-nut-blank-turning-hex-broach
+Tired of losing track of your nut blank dimensions or forgetting which hex broach size you used last? Stop digging through scattered notes and start turning with confidence.  This Notion template is the only workshop manager designed specifically for the nut blank turning and hex broaching craft. It centralizes your project specs, material inventor
